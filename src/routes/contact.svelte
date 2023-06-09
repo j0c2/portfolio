@@ -1,0 +1,1 @@
+<h1 class="contact-page">Contact</h1>
